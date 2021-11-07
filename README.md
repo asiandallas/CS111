@@ -1,5 +1,6 @@
 # CS111
 CS 111 - Computer Science I @ CSUSM
+
 Taken with Dr. Ouyang
 
 Emphasizes programming methodology and problem-solving. 
