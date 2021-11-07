@@ -1,6 +1,8 @@
 Prompt #1:  Explain the data you have organized in the "input.dat" file. Your explanation should be detailed enough for others to expand your data file with additional data using the same structure.
 
-  The data I am taking is from my Spotify data saved in last.fm. I am focusing on my top 10 songs played between the months of January to April, specifically from January 1 through April 30 2021. In my Spotify structure, I will have the title of the song, the artist, and the duration of the song in minutes and seconds. In the struct array will be the number of times I played each song in the last 4 months. Each array will consist 4 elements, each month representing January-April.
+  The data I am taking is from my Spotify data saved in last.fm. I am focusing on my top 10 songs played between the months of January to April, specifically from January 1 through April 30 2021.
+  In my Spotify structure, I will have the title of the song, the artist, and the duration of the song in minutes and seconds. In the struct array will be the number of times I played each song in the last 4 months.
+  Each array will consist 4 elements, each month representing January-April.
 
 Prompt #2:  What would the output look like if a user wants to browser your database without any filter or sorting criteria?
 
@@ -30,4 +32,7 @@ Prompt #5: Describe two analyses that would require data from multiple groups. T
    - User will enter a month and will output the duration I listened to the songs
 
 Prompt #6: How and why is this project personal or interesting to you?
-  - I love listening to music and use spotify almost 24/7. Because I use the app so much, I was curious on how much I am really listening a month as well as finding what artists/songs/albums are on repeat every week/month/year. I became interested in this after Spotify would usually do their Spotify Wrapped every end of the year. So I eventually signed up for last.fm to find these statistcs and check it once in a while. Because I am highly interested in my Spotify data I thought it would be a perfect choice for this project. 
+  - I love listening to music and use spotify almost 24/7. Because I use the app so much, I was curious on how much I am really listening a month 
+  as well as finding what artists/songs/albums are on repeat every week/month/year. I became interested in this after Spotify would usually do their
+  Spotify Wrapped every end of the year. So I eventually signed up for last.fm to find these statistcs and check it once in a while. Because I am 
+  highly interested in my Spotify data I thought it would be a perfect choice for this project. 
