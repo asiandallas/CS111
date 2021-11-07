@@ -1,7 +1,7 @@
 # CS111
 CS 111 - Computer Science I @ CSUSM
 
-Taken with Dr. Ouyang
+Taken with Dr. Ouyang Spring 2021
 
 Emphasizes programming methodology and problem-solving. 
 A high-level language such as C++ will be used for the specification and implementation of algorithms.
